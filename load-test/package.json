@@ -1,0 +1,16 @@
+{
+  "name": "load-test",
+  "version": "1.0.0",
+  "description": "Dev Mountain",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "autocannon": "^7.15.0",
+    "autocannon-reporter": "^1.1.0",
+    "uuid": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
